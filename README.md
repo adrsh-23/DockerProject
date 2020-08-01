@@ -7,5 +7,4 @@ After that just run this Docker-compose file that i have provided and within sec
 
 I have attached some images in order for your reference
 
-This project has been done under the mentorship of World Record Holder Mr.Vimal Daga 
-Thank You sir!
+
